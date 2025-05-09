@@ -21,7 +21,7 @@
 ## 安装与使用
 
 ### 环境要求
-- Python 版本需大于 3.9.6
+- Python 版本需大于 3.9.6  
   已在 Python 3.9.6 和 3.13.3 版本测试通过
 - 确保网络连接正常，便于安装依赖库。
 
@@ -34,11 +34,5 @@
 ## 错误排查
 若程序运行出现异常，可参考以下排查建议：
 1. 检查文件是否存在且列名严格一致。
-2. 确保日期格式为 `YYYY - MM - DD`。
-3. 手动安装缺失库：`pip install pandas chardet tqdm python - dateutil requests`。
+2. 手动安装缺失库：`pip install pandas chardet tqdm python - dateutil requests`。
 
-## 贡献与反馈
-若使用过程中遇到问题或有改进建议，欢迎在本项目的 GitHub 仓库提交 Issues 或 Pull Requests。
-
-## 项目主页
-[https://github.com/NAGOYAAAAA/checkmiss](https://github.com/NAGOYAAAAA/checkmiss) 
